@@ -4,17 +4,6 @@ A full-stack e-commerce web application built with **React**, **Tailwind CSS**, 
 
 ---
 
-## Project Structure
-
-
-E-Shop/
-├── client/        # React frontend
-├── backend/       # Express backend
-├── README.md      # This file
-
-
----
-
 ## Features
 
 - User authentication with JWT
@@ -140,19 +129,6 @@ STRIPE_SECRET_KEY=<your-stripe-key> # Stripe secret key
 * JWT is stored in localStorage for authentication.
 * Responsive design works for both desktop and mobile devices.
 
----
+---tes for `/products`, `/orders`, `/login`, etc., so it’s even more professional.  
 
-## License
 
-This project is **MIT Licensed**.
-
----
-
-```
-
-This is fully ready to **copy and paste** into your main project folder.  
-
-If you want, I can also **add an “API Endpoints” section** showing your backend routes for `/products`, `/orders`, `/login`, etc., so it’s even more professional.  
-
-Do you want me to add that?
-```
